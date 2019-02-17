@@ -1,0 +1,7 @@
+com\cav\spring\service\authentication\controller\ClientController.class
+com\cav\spring\service\authentication\repository\ClientRepository.class
+com\cav\spring\service\authentication\model\Client.class
+com\cav\spring\service\authentication\ClientAuthentication.class
+com\cav\spring\service\authentication\entity\BankClient.class
+com\cav\spring\service\authentication\service\ClientService.class
+com\cav\spring\service\authentication\service\ClientServiceImpl.class
